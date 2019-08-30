@@ -1,7 +1,7 @@
 $(function(){
 
     var curSlideMini = 0;
-    var maxSlideMini = $('.banner-singleMini').length-1;
+    var maxSlideMini = $('.banner-singleMini').length - 1;
     
     initSliderMini();
     changeSliderMini();
@@ -24,7 +24,7 @@ MiniChalé
 */
  
 var curSlideChale = 0;
-var maxSlideChale = $('.banner-singleChale').length;
+var maxSlideChale = $('.banner-singleChale').length - 1;
 
 initSliderChale();
 changeSliderChale();
@@ -48,7 +48,7 @@ Chalé
 */
 
 var curSlide = 0;
-var maxSlide = $('.banner-singleOutro').length;
+var maxSlide = $('.banner-singleOutro').length - 1;
 
 initSlider();
 changeSlider();

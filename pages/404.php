@@ -6,5 +6,6 @@
 alert("Não encontramos a página solicitada, dentro de instantes iremos lhe retornar à HOME");
 </script>
 <?php
-header("Refresh: 2; URL=https://chalestriunfo.000webhostapp.com");
+$home = INCLUDE_PATH;
+header("Refresh: 2; URL=$home");
 ?>

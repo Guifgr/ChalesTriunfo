@@ -86,7 +86,7 @@
                 <div  class="w50 left">
                     <h2 class="title">Depoimentos de clientes</h2>
                         <div class="depoimentoSingle">
-                            <p class="depoimentoDescricao">A postagem do SmartCamping alcançou 1 Milhão de pessoas e mais de 20 mil curtidas em menos de 15 dias<br />Isso tudo fez a a minha página ganhar mais de 12 mil seguidores sem gastar com propagandas!</p>
+                            <p class="depoimentoDescricao">A postagem do SmartCamping alcançou 1 Milhão de pessoas e mais de 20 mil cutidas em menos de 15 dias<br />Isso tudo fez a aminha página ganhar mais de 12 mil seguidores sem gastar com propagandas.</p>
                             <a class="depoimentoAutor" href="https://www.instagram.com/campingportalparaty/">Wado Proprietário Camping Portal de Paraty</a>
                        
                         </div><!--depoimentoSigle-->

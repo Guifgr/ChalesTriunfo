@@ -4,7 +4,7 @@
 
     <head>
         <link rel="icon" href=" <?php echo INCLUDE_PATH; ?>estilo/chale.ico"/>
-        <title>Chalés Triunfo</title>
+        <title>Chaés Triunfo</title>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="<?php echo INCLUDE_PATH; ?>estilo/style.css" rel="stylesheet"/>
     <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,400,700&display=swap" rel="stylesheet"> 
@@ -44,7 +44,7 @@
                     <li><a href="<?php echo INCLUDE_PATH; ?>">Home</a></li>
                     <li><a href="<?php echo INCLUDE_PATH; ?>servicos">Serviços</a></li>
                     <li><a href="<?php echo INCLUDE_PATH; ?>depoimentos">Depoimentos</a></li>
-                    <li><a href="<?php echo INCLUDE_PATH; ?>onde">Onde estamos</a></li>
+                    <li><a realtime="onde" href="<?php echo INCLUDE_PATH; ?>onde">Onde estamos</a></li>
                 </ul>
             </nav>
 
@@ -56,13 +56,13 @@
                     <li><a href="<?php echo INCLUDE_PATH; ?>">Home</a></li>
                     <li><a href="<?php echo INCLUDE_PATH; ?>servicos">Serviços</a></li>
                     <li><a href="<?php echo INCLUDE_PATH; ?>depoimentos">Depoimentos</a></li>
-                    <li><a href="<?php echo INCLUDE_PATH; ?>onde">Onde estamos</a></li>
+                    <li><a realtime="onde" href="<?php echo INCLUDE_PATH; ?>onde">Onde estamos</a></li>
                 </ul>
             </nav>
             <div class="clear"></div>
         </div>
     </header>
-    
+    <div class="container-principal">
         <?php
 
         if(file_exists('pages/'.$url.'.php')){
@@ -75,7 +75,7 @@
             include('pages/home.php');
         ?>
 
-
+    </div>
         <footer>
             <div class="center">
                 <p>Chalés Triunfo | Todos os direitos reservados</p>
