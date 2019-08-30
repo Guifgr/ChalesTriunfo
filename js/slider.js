@@ -1,7 +1,7 @@
 $(function(){
 
     var curSlideMini = 0;
-    var maxSlideMini = $('.banner-singleMini').length;
+    var maxSlideMini = $('.banner-singleMini').length-1;
     
     initSliderMini();
     changeSliderMini();
