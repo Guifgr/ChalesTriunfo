@@ -25,15 +25,5 @@ $(function(){
         $('html,body').animate({scrollTop:divScroll},2000)
                 
     }
-        carregarDinamico();
-        function carregarDinamico(){
-        $('[realtime]').click(function(){
-            var pagina = $(this).attr('realtime');
-            $('.container-principal').load('/projeto_site_chale/pages/onde.php');
-            $("html, body").animate({ scrollTop: $("#onde").scrollTop() }, 1000);
-            return false;
-
-        })
-    }
     
 })

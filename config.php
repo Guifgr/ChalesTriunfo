@@ -1,3 +1,3 @@
 <?php 
-    define('INCLUDE_PATH','https://chalestriunfo.000webhostapp.com/');
+    define('INCLUDE_PATH','https://chales-triunfo.000webhostapp.com/');
 ?>
