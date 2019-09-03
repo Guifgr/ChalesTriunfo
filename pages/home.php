@@ -1,9 +1,10 @@
+<?php include('contactform.php'); ?>
 <section class="bannerPrincipal">
     <div class="overlay"></div><!--overlay-->
     <div class="center">
-                 <form class="pergunta">
+                 <form class="pergunta" action="contactform.php" method="post">
                     <h2>Quer saber mais?</h2>
-                    <input type="text" name="Pergunta" placeholder="Qual sua dúvida?" required>
+                    <input type="text" name="pergunta" placeholder="Qual sua dúvida?" required>
                     <input type="email" name="email" placeholder="Qual Seu email?" required>
                     <input type="submit" name="submit" value="Enviar!">
                    
@@ -97,7 +98,7 @@
                         </div><!--depoimentoSigle-->
                 </div><!--divClass50-->
                 <div class="w50 left">
-                    <h2 class="title">serviços</h2>
+                    <h2 class="title">Serviços</h2>
                     <div class="servicos">
                         <ul>
                             <li>Chalés 45 M²</li>
