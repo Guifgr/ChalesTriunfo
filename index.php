@@ -69,9 +69,6 @@
             include('pages/'.$url.'.php');
         }
         else
-            if($url != 'depoimentos' && $url != 'servicos')
-                include('pages/404.php');
-            else
             include('pages/home.php');
         ?>
 
