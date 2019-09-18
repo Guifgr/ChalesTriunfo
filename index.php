@@ -1,4 +1,4 @@
-<?php include('config.php'); ?>
+<?php include('config.php');?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -91,6 +91,9 @@ if($url == 'home'||$url == ''||$url == 'servicos'||$url == 'depoimentos'){
 
 <?php
 };
+if( isset( $_GET['send'] ) ) { 
+    if($_GET['send'] == '1'){echo '<script>alert("Enviado com Sucesso, em breve entraremos em contato!");</script>';}
+} 
 ?>
 <!--Manipulando os slides (^^^^^^^^)-->
 

@@ -8,6 +8,6 @@ if (isset($_POST['submit'])) {
     $txt = "You have received an e-mail from ".$email.".\n\n".$subject;
     
     mail($mailTo, $subject, $txt, $headers);
-    header("Location: index.php?mailsend");
+    header("Location: index.php?send=1");
     }
 ?>
