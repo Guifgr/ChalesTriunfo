@@ -19,10 +19,17 @@ $(function(){
 
     if($('target').length > 0){
         var elemento = '#'+$('target').attr('target');
-        
-        var divScroll = $(elemento).offset().top;
 
-        $('html,body').animate({scrollTop:divScroll},2000)
+        var divScroll = $(elemento).offset().top;
+        if(elemento == '#depoimentos'){
+            $('html,body').animate({scrollTop:divScroll},2000)
+        }
+        else if(elemento=='#onde'){
+            $('html,body').animate({scrollTop:divScroll},800)
+        } 
+        else{
+            $('html,body').animate({scrollTop:divScroll},1200)
+        };
                 
     }
     
