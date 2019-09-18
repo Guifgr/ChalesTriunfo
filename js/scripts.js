@@ -28,7 +28,7 @@ $(function(){
             $('html,body').animate({scrollTop:divScroll},800)
         } 
         else{
-            $('html,body').animate({scrollTop:divScroll},1200)
+            $('html,body').animate({scrollTop:divScroll},1000)
         };
                 
     }
