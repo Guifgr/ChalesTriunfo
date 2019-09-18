@@ -1,3 +1,3 @@
 <?php 
-    define('INCLUDE_PATH','https://chalestriunfo.com.br/');
+    define('INCLUDE_PATH','https://www.chalestriunfo.com.br/');
 ?>
