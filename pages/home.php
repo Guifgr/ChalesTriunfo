@@ -105,7 +105,7 @@
                             <li>Mini Chalés</li>
                             <li>Tiny House</li>
                             <li>Construção Ecológica</li>
-                            <li>Serviços marcenaria interna e externa</li>
+                            <li>Serviços carpintaria interna e externa</li>
                         </ul>
 
                     </div><!--servicos-->
