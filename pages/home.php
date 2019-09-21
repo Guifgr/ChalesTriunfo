@@ -214,6 +214,70 @@
     <div class="caption-container">
       <p id="caption"></p>
     </div>
+      
+        <!-- Thumbnail image controls -->
+    <div class="column">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/01.jpg' onclick="currentSlide(2)" alt="Mini-chale" style="width:100%">
+    </div>
+
+    <div class="column">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/02.jpg' onclick="currentSlide(2)" alt="Mini-chale" style="width:100%">
+    </div>
+
+    <div class="column">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/04.jpg' onclick="currentSlide(3)" alt="Mini-chale" style="width:100%">
+    </div>
+
+    <div class="column">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/05.jpg' onclick="currentSlide(4)" alt="Mini-chale" style="width:100%">
+    </div>
+    
+    <div class="column">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/06.jpg' onclick="currentSlide(5)" alt="Mini-chale" style="width:100%">
+    </div>
+    
+    <div class="column">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Chale/01.jpg' onclick="currentSlide(6)" alt="Chalé" style="width:100%">
+    </div>
+    
+    <div class="column">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Chale/02.jpg' onclick="currentSlide(7)" alt="Chalé" style="width:100%">
+    </div>
+    
+    <div class="column">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Chale/03.jpg' onclick="currentSlide(8)" alt="Chalé" style="width:100%">
+    </div>
+    
+    <div class="column">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Chale/04.jpg' onclick="currentSlide(9)" alt="Chalé" style="width:100%">
+    </div>
+    
+    <div class="column">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Chale/05.jpg' onclick="currentSlide(10)" alt="Chalé" style="width:100%">
+    </div>
+    
+    <div class="column">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Outros/01.jpg' onclick="currentSlide(11)" alt="Outros" style="width:100%">
+    </div>
+    
+    <div class="column">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Outros/02.jpg' onclick="currentSlide(12)" alt="Outros" style="width:100%">
+    </div>
+    
+    <div class="column">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Outros/03.jpg' onclick="currentSlide(13)" alt="Outros" style="width:100%">
+    </div>
+    
+    <div class="column">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Outros/04.jpg' onclick="currentSlide(14)" alt="Outros" style="width:100%">
+    </div>
+    
+    <div class="column">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Outros/05.jpg' onclick="currentSlide(15)" alt="Outros" style="width:100%">
+    </div>
+    
+  </div>
+</div>
     
     <script>
         
