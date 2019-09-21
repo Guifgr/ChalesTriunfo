@@ -1,8 +1,11 @@
-<?php include('config.php');?>
+<?php 
+include('config.php');
+?>
 <!DOCTYPE html>
 <html lang="en">
 
     <head>
+        <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
         <link rel="icon" href=" <?php echo INCLUDE_PATH; ?>estilo/chale.ico"/>
         <title>Chalés Triunfo</title>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -14,7 +17,8 @@
     <meta name="description" content="Com a Chalés triunfo você pode construir lindas obras de arte sem danificar a natureza">
 </head>
 <body>
-
+<script src=" <?php echo INCLUDE_PATH; ?>js/jquery.js"></script>
+<script src=" <?php echo INCLUDE_PATH; ?>js/scripts.js"></script>
 <?php 
     $url = isset($_GET['url']) ? $_GET['url'] : 'home';
     switch ($url) {
@@ -79,8 +83,6 @@
             </div><!--center-->
         </footer>
 
-<script src=" <?php echo INCLUDE_PATH; ?>js/jquery.js"></script>
-<script src=" <?php echo INCLUDE_PATH; ?>js/scripts.js"></script>
 
 <!--Manipulando os slides (vvvvvvvvv)-->
 <?php
@@ -88,11 +90,10 @@ if($url == 'home'||$url == ''||$url == 'servicos'||$url == 'depoimentos'){
 ?>
 
 <script src=" <?php echo INCLUDE_PATH; ?>js/slider.js"></script>
-
 <?php
 };
 if( isset( $_GET['send'] ) ) { 
-    if($_GET['send'] == '1'){echo '<script>alert("Enviado com Sucesso, em breve entraremos em contato!");</script>';}
+    if($_GET['send'] == '1'){echo '<script>swal("Enviado com Sucesso!", "Em breve entraremos em contato!");</script>';}
 } 
 ?>
 <!--Manipulando os slides (^^^^^^^^)-->
