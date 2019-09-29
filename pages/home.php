@@ -41,7 +41,7 @@
                         <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/Chale/05.jpg');" class="banner-singleChale" onclick="openModal();currentSlide(10)" class="hover-shadow" ></div>
 
                         </div>
-                        <p>Chalés de 45 M² que subistituem até uma casa, com um ótimo preço tanto para quem quer morar como para quem quer ter uma casa de temporada!</p>
+                        <p>Chalés de 45 M² que substituem até uma casa, com um ótimo preço tanto para quem quer morar como para quem quer ter uma casa de temporada!</p>
                     
                     </div>
                     <div class="w33 left box-especialidades">

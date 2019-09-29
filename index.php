@@ -2,7 +2,7 @@
 include('config.php');
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
     <head>
         <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
@@ -93,7 +93,7 @@ if($url == 'home'||$url == ''||$url == 'servicos'||$url == 'depoimentos'){
 <?php
 };
 if( isset( $_GET['send'] ) ) { 
-    if($_GET['send'] == '1'){echo '<script>swal("Enviado com Sucesso!", "Em breve entraremos em contato!");</script>';}
+    if($_GET['send'] == '1'){echo '<script>swal("Enviado com sucesso!", "Em breve a nossa equipe entrará em contato", "success");</script>';}
 } 
 ?>
 <!--Manipulando os slides (^^^^^^^^)-->
