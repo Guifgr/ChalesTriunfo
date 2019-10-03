@@ -60,6 +60,7 @@
                         <p>Também trabalhamos com encaixe e carpintaria em geral para proporcionar o melhor ambiente interno e externo!</p>
 
                     </div>
+                    <img class="click" src="<?php echo INCLUDE_PATH; ?>/estilo/hand-touch-detech-512.png" alt=""/>
                 <div class="clear"></div>
             </div><!--Center-->
         </section><!--especialidades-->
