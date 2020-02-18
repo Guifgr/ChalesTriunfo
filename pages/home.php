@@ -26,7 +26,7 @@
                             <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/05.jpg');" class="banner-singleMini" onclick="openModal();currentSlide(4)" class="hover-shadow" ></div>
                             <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/06.jpg');" class="banner-singleMini"  onclick="openModal();currentSlide(5)" class="hover-shadow"></div>
                         </div>
-                        <p>Mini Cláles são desenvolvidos para o melhor custo benefício para até 2 adultos e 1 criança!</p>
+                        <p>Mini Chalés são desenvolvidos para o melhor custo benefício para até 2 adultos e 1 criança!</p>
                     
                     </div>
                     <div class="w33 left box-especialidades">
@@ -60,7 +60,7 @@
                         <p>Também trabalhamos com encaixe e carpintaria em geral para proporcionar o melhor ambiente interno e externo!</p>
 
                     </div>
-                    <img class="click" src="<?php echo INCLUDE_PATH; ?>/estilo/hand-touch-detech-512.png" alt=""/>
+                    <img class="click" onclick="openModal();currentSlide(1)" src="<?php echo INCLUDE_PATH; ?>/estilo/hand-touch-detech-512.png" alt=""/>
                 <div class="clear"></div>
             </div><!--Center-->
         </section><!--especialidades-->
@@ -73,7 +73,9 @@
                 <p>Prazer em te ter no meu site, procuro ao máximo manter claro meus objetivos e com esse trabalho,
                      que é praticamente arte me sinto cada dia mais vivo fazendo o que gosto!            </div><!--w50-->
             <div class="w50 right">
-                <img class="adilson" src="<?php echo INCLUDE_PATH; ?>estilo/Adilson/foto1.jpg"/>
+                <a href="https://www.linkedin.com/in/adilson-rocha-53296650/">
+                    <img class="adilson"  src="<?php echo INCLUDE_PATH; ?>estilo/Adilson/foto1.jpg"/>
+                </a>
             </div>
         </div><!--Center-->
         </section><!--Autor-->
@@ -112,7 +114,7 @@
                             <li>Telefone: (11) 97437-1974 </li>
                             <li>Endereço: Rua Maria Barbosa Nabarrete N° 175</li>
                             <li>Mogi das Cruzes - SP</li>
-                            <li>Email: contato@chalestriunfo.com.br</li>
+                            <li>Email: chalestriunfo@gmail.com.br</li>
                         </ul>
 
                     

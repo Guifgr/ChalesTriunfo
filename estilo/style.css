@@ -8,6 +8,7 @@
 }
 .click{
     width: 20%!important;
+    cursor: pointer; 
 }
 .logo{
     width: 150px;
@@ -416,7 +417,12 @@ img.hover-shadow {
         padding: 20px;
         width: 100%;
     }    
+    
 } 
+
+.whatsapp{
+    color: #90ee90;
+}
 @media screen and (max-width: 775px){
         .click{
             width: 50%!important;

@@ -5,6 +5,19 @@ include('config.php');
 <html>
 
     <head>
+        
+        
+    <meta property="og:title" content="Chalés Triunfo" />
+    
+    <meta property="og:description" content="Arquitetura / Inovação / Construção" />
+    
+    <meta property="og:image" content="https://www.chalestriunfo.com.br/estilo/Adilson/output-onlinepngtools.png" />
+
+        
+        
+        <script src="https://code.iconify.design/1/1.0.4/iconify.min.js"></script>
+        
+        
         <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
         <link rel="icon" href=" <?php echo INCLUDE_PATH; ?>estilo/chale.ico"/>
         <title>Chalés Triunfo</title>
@@ -17,6 +30,7 @@ include('config.php');
     <meta name="description" content="Com a Chalés triunfo você pode construir lindas obras de arte sem danificar a natureza">
 </head>
 <body>
+<script src=" <?php echo INCLUDE_PATH; ?>js/lazysizes.min.js" async=""></script>
 <script src=" <?php echo INCLUDE_PATH; ?>js/jquery.js"></script>
 <script src=" <?php echo INCLUDE_PATH; ?>js/scripts.js"></script>
 <?php 
