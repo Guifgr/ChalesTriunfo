@@ -5,19 +5,6 @@ include('config.php');
 <html>
 
     <head>
-        
-        
-    <meta property="og:title" content="Chalés Triunfo" />
-    
-    <meta property="og:description" content="Arquitetura / Inovação / Construção" />
-    
-    <meta property="og:image" content="https://www.chalestriunfo.com.br/estilo/Adilson/output-onlinepngtools.png" />
-
-        
-        
-        <script src="https://code.iconify.design/1/1.0.4/iconify.min.js"></script>
-        
-        
         <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
         <link rel="icon" href=" <?php echo INCLUDE_PATH; ?>estilo/chale.ico"/>
         <title>Chalés Triunfo</title>
@@ -30,7 +17,6 @@ include('config.php');
     <meta name="description" content="Com a Chalés triunfo você pode construir lindas obras de arte sem danificar a natureza">
 </head>
 <body>
-<script src=" <?php echo INCLUDE_PATH; ?>js/lazysizes.min.js" async=""></script>
 <script src=" <?php echo INCLUDE_PATH; ?>js/jquery.js"></script>
 <script src=" <?php echo INCLUDE_PATH; ?>js/scripts.js"></script>
 <?php 
@@ -54,7 +40,7 @@ include('config.php');
         <div class="center">
             <div class="logo left">
             <a href="<?php echo INCLUDE_PATH; ?>">
-                <img class="logo" src="<?php echo INCLUDE_PATH; ?>estilo/Adilson/output-onlinepngtools.png">
+                <img class="logo" src="<?php echo INCLUDE_PATH; ?>estilo/Adilson/output-onlinepngtools.webp">
             </a>
             </div><!---logo-->
             <nav class="desktop right">
@@ -63,6 +49,7 @@ include('config.php');
                     <li><a href="<?php echo INCLUDE_PATH; ?>servicos">Serviços</a></li>
                     <li><a href="<?php echo INCLUDE_PATH; ?>depoimentos">Depoimentos</a></li>
                     <li><a href="<?php echo INCLUDE_PATH; ?>onde">Onde estamos</a></li>
+                    <li><a href="<?php echo INCLUDE_PATH; ?>loja">Loja</a></li>
                 </ul>
             </nav>
 
@@ -75,6 +62,7 @@ include('config.php');
                     <li><a href="<?php echo INCLUDE_PATH; ?>servicos">Serviços</a></li>
                     <li><a href="<?php echo INCLUDE_PATH; ?>depoimentos">Depoimentos</a></li>
                     <li><a href="<?php echo INCLUDE_PATH; ?>onde">Onde estamos</a></li>
+                    <li><a href="<?php echo INCLUDE_PATH; ?>loja">Loja</a></li>
                 </ul>
             </nav>
             <div class="clear"></div>

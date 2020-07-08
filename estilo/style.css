@@ -6,9 +6,21 @@
     box-sizing: border-box;
     font-family: 'Open Sans Condensed', sans-serif;
 }
-.click{
-    width: 20%!important;
-    cursor: pointer; 
+a:link
+{
+text-decoration:none;
+}
+a:hover{
+    opacity: 0.5;
+}
+.loader {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: url('http://i.imgur.com/zAD2y29.gif') 50% 50% no-repeat white;
 }
 .logo{
     width: 150px;
@@ -27,6 +39,9 @@
 .w33{
     width: 33.3%;
 }
+.w25{
+    width: 25%;
+}
 .left{
     float: left;
 }
@@ -40,7 +55,10 @@
 .clear{
     clear: both;
 }
-     
+.whatsapp{
+    text-decoration:none;
+    color: green;
+}
 
 /* ESTILO */
 header{
@@ -70,9 +88,12 @@ nav.desktop a{
 section.bannerPrincipal{
     width: 100%;
     height: 600px;
-    background-image: url('../estilo/Adilson/pretty.jpg');
+    background-image: url('../estilo/Adilson/pretty.webp');
     background-size: cover; 
     position: relative;
+}
+.adilson{
+    border-radius: 8px;
 }
 .overlay{
     z-index: 1;
@@ -106,7 +127,6 @@ section.bannerPrincipal form input[type="email"]{
     background: white;
     color: #333;
     font-size: 22px;
-    border: 0;
     padding-left: 10px;
 
 }
@@ -117,7 +137,6 @@ section.bannerPrincipal form input[type="text"]{
     background: white;
     color: #333;
     font-size: 22px;
-    border: 0;
     padding-left: 10px;
 
 }
@@ -130,9 +149,7 @@ section.bannerPrincipal form input[type="submit"]{
     background: lightseagreen;
     cursor: pointer;
     border: 0;
-}
-section.bannerPrincipal form input[type="submit"]:hover{
-    background: #126058;
+
 }
 section.descricaoAutor{
     padding: 30px 0;
@@ -185,8 +202,10 @@ section .banner-singleMini{
     background-position: center; 
     background-size: cover;
     position: absolute;
+    border-radius: 8px;
 }
 section .banner-singleChale{
+    border-radius: 8px;
     cursor: pointer;
     width: 300px;
     height: 300px;
@@ -195,6 +214,7 @@ section .banner-singleChale{
     position: absolute;
 }
 section .banner-singleOutro{
+    border-radius: 8px;
     cursor: pointer;
     width: 300px;
     height: 300px;
@@ -264,7 +284,12 @@ footer p{
 /* Create four equal columns that floats next to eachother */
 .column {
   float: left;
-  width: 25%;
+  width: 20%;
+}
+
+.demo{
+    width: 100%;
+    object-fit: cover;
 }
 
 /* The Modal (background) */
@@ -377,11 +402,12 @@ img.hover-shadow {
 }
 
 
-@media screen and (max-width: 950px){
-    .click{
-    width: 30%!important;
-}
+@media screen and (max-width: 1280px){
     .w33{
+        padding: 20px;
+        width: 100%;
+    }  
+    .w25{
         padding: 20px;
         width: 100%;
     }    
@@ -398,11 +424,11 @@ img.hover-shadow {
             .modal-content {
             width: 90% !important;
 }
+.loja{
+    height: auto !important;
+}
 }
 @media screen and (max-width:775px){
-    .click{
-    width: 40%!important;
-}
     .map{
         width:100%; 
         height: 740px !important;
@@ -417,16 +443,8 @@ img.hover-shadow {
         padding: 20px;
         width: 100%;
     }    
-    
 } 
-
-.whatsapp{
-    color: #90ee90;
-}
 @media screen and (max-width: 775px){
-        .click{
-            width: 50%!important;
-        }
         nav.desktop{
             display: none;
         }    

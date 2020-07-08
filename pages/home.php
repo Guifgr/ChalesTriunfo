@@ -20,13 +20,13 @@
                     
                         <h3>Mini Cháles</h3>
                         <div class="image mini">
-                            <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/01.jpg');" class="banner-singleMini" onclick="openModal();currentSlide(1)" class="hover-shadow" ></div>
-                            <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/02.jpg');" class="banner-singleMini" onclick="openModal();currentSlide(2)" class="hover-shadow" ></div>
-                            <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/04.jpg');" class="banner-singleMini" onclick="openModal();currentSlide(3)" class="hover-shadow" ></div>
-                            <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/05.jpg');" class="banner-singleMini" onclick="openModal();currentSlide(4)" class="hover-shadow" ></div>
-                            <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/06.jpg');" class="banner-singleMini"  onclick="openModal();currentSlide(5)" class="hover-shadow"></div>
+                            <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/01.webp');" class="banner-singleMini" onclick="openModal();currentSlide(1)" class="hover-shadow" ></div>
+                            <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/02.webp');" class="banner-singleMini" onclick="openModal();currentSlide(2)" class="hover-shadow" ></div>
+                            <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/04.webp');" class="banner-singleMini" onclick="openModal();currentSlide(3)" class="hover-shadow" ></div>
+                            <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/05.webp');" class="banner-singleMini" onclick="openModal();currentSlide(4)" class="hover-shadow" ></div>
+                            <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/06.webp');" class="banner-singleMini"  onclick="openModal();currentSlide(5)" class="hover-shadow"></div>
                         </div>
-                        <p>Mini Chalés são desenvolvidos para o melhor custo benefício para até 2 adultos e 1 criança!</p>
+                        <p>Mini Cláles são desenvolvidos para o melhor custo benefício para até 2 adultos e 1 criança!</p>
                     
                     </div>
                     <div class="w33 left box-especialidades">
@@ -34,11 +34,11 @@
                         <h3>Chalés</h3>
                         <div class="image chale">
 
-                        <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/Chale/01.jpg');" class="banner-singleChale" onclick="openModal();currentSlide(6)" class="hover-shadow" ></div>
-                        <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/Chale/02.jpg');" class="banner-singleChale" onclick="openModal();currentSlide(7)" class="hover-shadow" ></div>
-                        <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/Chale/03.jpg');" class="banner-singleChale" onclick="openModal();currentSlide(8)" class="hover-shadow"  ></div>
-                        <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/Chale/04.jpg');" class="banner-singleChale" onclick="openModal();currentSlide(9)" class="hover-shadow" ></div>
-                        <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/Chale/05.jpg');" class="banner-singleChale" onclick="openModal();currentSlide(10)" class="hover-shadow" ></div>
+                        <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/Chale/01.webp');" class="banner-singleChale" onclick="openModal();currentSlide(6)" class="hover-shadow" ></div>
+                        <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/Chale/02.webp');" class="banner-singleChale" onclick="openModal();currentSlide(7)" class="hover-shadow" ></div>
+                        <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/Chale/03.webp');" class="banner-singleChale" onclick="openModal();currentSlide(8)" class="hover-shadow"  ></div>
+                        <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/Chale/04.webp');" class="banner-singleChale" onclick="openModal();currentSlide(9)" class="hover-shadow" ></div>
+                        <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/Chale/05.webp');" class="banner-singleChale" onclick="openModal();currentSlide(10)" class="hover-shadow" ></div>
 
                         </div>
                         <p>Chalés de 45 M² que substituem até uma casa, com um ótimo preço tanto para quem quer morar como para quem quer ter uma casa de temporada!</p>
@@ -50,17 +50,16 @@
                         </h3>
                         <div class="image marcenaria">
 
-                        <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/Outros/01.jpg');" class="banner-singleOutro" onclick="openModal();currentSlide(11)" class="hover-shadow" ></div>
-                        <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/Outros/02.jpg');" class="banner-singleOutro" onclick="openModal();currentSlide(12)" class="hover-shadow" ></div>
-                        <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/Outros/03.jpg');" class="banner-singleOutro" onclick="openModal();currentSlide(13)" class="hover-shadow" ></div>
-                        <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/Outros/04.jpg');" class="banner-singleOutro" onclick="openModal();currentSlide(14)" class="hover-shadow" ></div>
-                        <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/Outros/05.jpg');" class="banner-singleOutro" onclick="openModal();currentSlide(15)" class="hover-shadow" ></div>
+                        <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/Outros/01.webp');" class="banner-singleOutro" onclick="openModal();currentSlide(11)" class="hover-shadow" ></div>
+                        <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/Outros/02.webp');" class="banner-singleOutro" onclick="openModal();currentSlide(12)" class="hover-shadow" ></div>
+                        <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/Outros/03.webp');" class="banner-singleOutro" onclick="openModal();currentSlide(13)" class="hover-shadow" ></div>
+                        <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/Outros/04.webp');" class="banner-singleOutro" onclick="openModal();currentSlide(14)" class="hover-shadow" ></div>
+                        <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/Outros/05.webp');" class="banner-singleOutro" onclick="openModal();currentSlide(15)" class="hover-shadow" ></div>
 
                         </div>
                         <p>Também trabalhamos com encaixe e carpintaria em geral para proporcionar o melhor ambiente interno e externo!</p>
 
                     </div>
-                    <img class="click" onclick="openModal();currentSlide(1)" src="<?php echo INCLUDE_PATH; ?>/estilo/hand-touch-detech-512.png" alt=""/>
                 <div class="clear"></div>
             </div><!--Center-->
         </section><!--especialidades-->
@@ -68,15 +67,15 @@
 
         <section class="descricaoAutor">
         <div class="center">    
-            <div class="w50 left">
-                <h2>Adilson G. Rocha</h2>
-                <p>Prazer em te ter no meu site, procuro ao máximo manter claro meus objetivos e com esse trabalho,
-                     que é praticamente arte me sinto cada dia mais vivo fazendo o que gosto!            </div><!--w50-->
-            <div class="w50 right">
-                <a href="https://www.linkedin.com/in/adilson-rocha-53296650/">
-                    <img class="adilson"  src="<?php echo INCLUDE_PATH; ?>estilo/Adilson/foto1.jpg"/>
-                </a>
+          <div class="w50 center">
+            <a href="https://www.linkedin.com/in/adilson-rocha-53296650/">
+              <h2>Adilson G. Rocha</h2>
+              
+            </div><!--w50-->
+            <div class="w50 center">
+              <img class="adilson" src="<?php echo INCLUDE_PATH; ?>estilo/Adilson/foto1.webp"/>
             </div>
+          </a>
         </div><!--Center-->
         </section><!--Autor-->
 
@@ -111,10 +110,12 @@
                     <br />
                     <h2 class="title">Contato</h2>
                         <ul>
-                            <li>Telefone: (11) 97437-1974 </li>
+                            <a href="https://api.whatsapp.com/send?phone=5511974371974&text=Ol%C3%A1%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es" class="whatsapp">
+                              <li>Telefone: <i class="fa fa-whatsapp" aria-hidden="true"></i> (11) 97437-1974 </li>
+                            </a>
                             <li>Endereço: Rua Maria Barbosa Nabarrete N° 175</li>
                             <li>Mogi das Cruzes - SP</li>
-                            <li>Email: chalestriunfo@gmail.com.br</li>
+                            <li>Email: contato@chalestriunfo.com.br</li>
                         </ul>
 
                     
@@ -137,76 +138,76 @@
 
     <div class="mySlides">
       <div class="numbertext">1 / 15</div>
-      <img src='<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/01.jpg' style="width:100%">
+      <img src='<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/01.webp' style="width:100%">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">2 / 15</div>
-      <img src='<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/02.jpg' style="width:100%">
+      <img src='<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/02.webp' style="width:100%">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">3 / 15</div>
-      <img src='<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/04.jpg' style="width:100%">
+      <img src='<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/04.webp' style="width:100%">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">4 / 15</div>
-      <img src='<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/05.jpg' style="width:100%">
+      <img src='<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/05.webp' style="width:100%">
     </div>
     
     <div class="mySlides">
       <div class="numbertext">5 / 15</div>
-      <img src='<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/06.jpg' style="width:100%">
+      <img src='<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/06.webp' style="width:100%">
     </div>
     <div class="mySlides">
       <div class="numbertext">6 / 15</div>
-      <img src='<?php echo INCLUDE_PATH; ?>/estilo/Chale/01.jpg' style="width:100%">
+      <img src='<?php echo INCLUDE_PATH; ?>/estilo/Chale/01.webp' style="width:100%">
     </div>
     
     <div class="mySlides">
       <div class="numbertext">7 / 15</div>
-      <img src='<?php echo INCLUDE_PATH; ?>/estilo/Chale/02.jpg' style="width:100%">
+      <img src='<?php echo INCLUDE_PATH; ?>/estilo/Chale/02.webp' style="width:100%">
     </div>
     
     <div class="mySlides">
       <div class="numbertext">8 / 15</div>
-      <img src='<?php echo INCLUDE_PATH; ?>/estilo/Chale/03.jpg' style="width:100%">
+      <img src='<?php echo INCLUDE_PATH; ?>/estilo/Chale/03.webp' style="width:100%">
     </div>
     
     <div class="mySlides">
       <div class="numbertext">9 / 15</div>
-      <img src='<?php echo INCLUDE_PATH; ?>/estilo/Chale/04.jpg' style="width:100%">
+      <img src='<?php echo INCLUDE_PATH; ?>/estilo/Chale/04.webp' style="width:100%">
     </div>
     
     <div class="mySlides">
       <div class="numbertext">10 / 15</div>
-      <img src='<?php echo INCLUDE_PATH; ?>/estilo/Chale/05.jpg' style="width:100%">
+      <img src='<?php echo INCLUDE_PATH; ?>/estilo/Chale/05.webp' style="width:100%">
     </div>
     
     <div class="mySlides">
       <div class="numbertext">11 / 15</div>
-      <img src='<?php echo INCLUDE_PATH; ?>/estilo/Outros/01.jpg' style="width:100%">
+      <img src='<?php echo INCLUDE_PATH; ?>/estilo/Outros/01.webp' style="width:100%">
     </div>
     
     <div class="mySlides">
       <div class="numbertext">12 / 15</div>
-      <img src='<?php echo INCLUDE_PATH; ?>/estilo/Outros/02.jpg' style="width:100%">
+      <img src='<?php echo INCLUDE_PATH; ?>/estilo/Outros/02.webp' style="width:100%">
     </div>
     
     <div class="mySlides">
       <div class="numbertext">13 / 15</div>
-      <img src='<?php echo INCLUDE_PATH; ?>/estilo/Outros/03.jpg' style="width:100%">
+      <img src='<?php echo INCLUDE_PATH; ?>/estilo/Outros/03.webp' style="width:100%">
     </div>
     
     <div class="mySlides">
       <div class="numbertext">14 / 15</div>
-      <img src='<?php echo INCLUDE_PATH; ?>/estilo/Outros/04.jpg' style="width:100%">
+      <img src='<?php echo INCLUDE_PATH; ?>/estilo/Outros/04.webp' style="width:100%">
     </div>
     
     <div class="mySlides">
       <div class="numbertext">15 / 15</div>
-      <img src='<?php echo INCLUDE_PATH; ?>/estilo/Outros/05.jpg' style="width:100%">
+      <img src='<?php echo INCLUDE_PATH; ?>/estilo/Outros/05.webp' style="width:100%">
     </div>
     
     <!-- Next/previous controls -->
@@ -220,107 +221,65 @@
       
         <!-- Thumbnail image controls -->
     <div class="column">
-      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/01.jpg' onclick="currentSlide(2)" alt="Mini-chale" style="width:100%">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/01.webp' onclick="currentSlide(1)" alt="Mini-chale">
     </div>
 
     <div class="column">
-      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/02.jpg' onclick="currentSlide(2)" alt="Mini-chale" style="width:100%">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/02.webp' onclick="currentSlide(2)" alt="Mini-chale">
     </div>
 
     <div class="column">
-      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/04.jpg' onclick="currentSlide(3)" alt="Mini-chale" style="width:100%">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/04.webp' onclick="currentSlide(3)" alt="Mini-chale">
     </div>
 
     <div class="column">
-      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/05.jpg' onclick="currentSlide(4)" alt="Mini-chale" style="width:100%">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/05.webp' onclick="currentSlide(4)" alt="Mini-chale">
     </div>
     
     <div class="column">
-      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/06.jpg' onclick="currentSlide(5)" alt="Mini-chale" style="width:100%">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/06.webp' onclick="currentSlide(5)" alt="Mini-chale">
     </div>
     
     <div class="column">
-      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Chale/01.jpg' onclick="currentSlide(6)" alt="Chalé" style="width:100%">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Chale/01.webp' onclick="currentSlide(6)" alt="Chalé">
     </div>
     
     <div class="column">
-      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Chale/02.jpg' onclick="currentSlide(7)" alt="Chalé" style="width:100%">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Chale/02.webp' onclick="currentSlide(7)" alt="Chalé">
     </div>
     
     <div class="column">
-      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Chale/03.jpg' onclick="currentSlide(8)" alt="Chalé" style="width:100%">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Chale/03.webp' onclick="currentSlide(8)" alt="Chalé">
     </div>
     
     <div class="column">
-      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Chale/04.jpg' onclick="currentSlide(9)" alt="Chalé" style="width:100%">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Chale/04.webp' onclick="currentSlide(9)" alt="Chalé">
     </div>
     
     <div class="column">
-      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Chale/05.jpg' onclick="currentSlide(10)" alt="Chalé" style="width:100%">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Chale/05.webp' onclick="currentSlide(10)" alt="Chalé">
     </div>
     
     <div class="column">
-      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Outros/01.jpg' onclick="currentSlide(11)" alt="Outros" style="width:100%">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Outros/01.webp' onclick="currentSlide(11)" alt="Outros">
     </div>
     
     <div class="column">
-      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Outros/02.jpg' onclick="currentSlide(12)" alt="Outros" style="width:100%">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Outros/02.webp' onclick="currentSlide(12)" alt="Outros">
     </div>
     
     <div class="column">
-      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Outros/03.jpg' onclick="currentSlide(13)" alt="Outros" style="width:100%">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Outros/03.webp' onclick="currentSlide(13)" alt="Outros">
     </div>
     
     <div class="column">
-      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Outros/04.jpg' onclick="currentSlide(14)" alt="Outros" style="width:100%">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Outros/04.webp' onclick="currentSlide(14)" alt="Outros">
     </div>
     
     <div class="column">
-      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Outros/05.jpg' onclick="currentSlide(15)" alt="Outros" style="width:100%">
+      <img class="demo" src='<?php echo INCLUDE_PATH; ?>/estilo/Outros/05.webp' onclick="currentSlide(15)" alt="Outros">
     </div>
-    
+
+   
   </div>
 </div>
-    
-    <script>
-        
-    function openModal() {
-      document.getElementById("myModal").style.display = "block";
-    }
-    
-    // Close the Modal
-    function closeModal() {
-      document.getElementById("myModal").style.display = "none";
-    }
-    
-    var slideIndex = 1;
-    showSlides(slideIndex);
-    
-    // Next/previous controls
-    function plusSlides(n) {
-      showSlides(slideIndex += n);
-    }
-    
-    // Thumbnail image controls
-    function currentSlide(n) {
-      showSlides(slideIndex = n);
-    }
-    
-    function showSlides(n) {
-      var i;
-      var slides = document.getElementsByClassName("mySlides");
-      var dots = document.getElementsByClassName("demo");
-      var captionText = document.getElementById("caption");
-      if (n > slides.length) {slideIndex = 1}
-      if (n < 1) {slideIndex = slides.length}
-      for (i = 0; i < slides.length; i++) {
-        slides[i].style.display = "none";
-      }
-      for (i = 0; i < dots.length; i++) {
-        dots[i].className = dots[i].className.replace(" active", "");
-      }
-      slides[slideIndex-1].style.display = "block";
-      dots[slideIndex-1].className += " active";
-      captionText.innerHTML = dots[slideIndex-1].alt;
-    }
-    </script>
