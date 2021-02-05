@@ -5,7 +5,7 @@
                  <form class="pergunta" action="contactform.php" method="post">
                     <h2>Quer saber mais?</h2>
                     <input type="text" name="pergunta" placeholder="Qual sua dúvida?" required>
-                    <input type="email" name="email" placeholder="Qual Seu email?" required>
+                    <input type="email" name="email" placeholder="Qual seu email?" required>
                     <input type="submit" name="submit" value="Enviar!">
                    
                 </Form>
@@ -26,7 +26,7 @@
                             <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/05.webp');" class="banner-singleMini" onclick="openModal();currentSlide(4)" class="hover-shadow" ></div>
                             <div style="background-image: url('<?php echo INCLUDE_PATH; ?>/estilo/MiniChale/06.webp');" class="banner-singleMini"  onclick="openModal();currentSlide(5)" class="hover-shadow"></div>
                         </div>
-                        <p>Mini Cláles são desenvolvidos para o melhor custo benefício para até 2 adultos e 1 criança!</p>
+                        <p>Mini Chalés são desenvolvidos para o melhor custo benefício para até 2 adultos e 1 criança!</p>
                     
                     </div>
                     <div class="w33 left box-especialidades">

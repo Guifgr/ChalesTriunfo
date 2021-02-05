@@ -2,7 +2,7 @@ body{
     background: lightyellow;
 }
 .loja{
-    height: 85vh;
+    height: auto;
 }
 .centerHeigth{
     margin-top: 5%;

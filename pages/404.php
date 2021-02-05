@@ -1,10 +1,2 @@
-<section class="bannerPrincipal">
-    <div class="center">
-            </div><!--center-->
-        </section><!---bannerPrincipal-->
-<script>
-alert("Não encontramos a página solicitada, dentro de instantes iremos lhe retornar à HOME");
-</script>
-<?php
-header("Refresh: 2; URL=https://chalestriunfo.000webhostapp.com");
-?>
+<h1>Estamos Fora do ar no momento mas entre em contato conosco por um de nossos canais de contato!</h1>
+<?php include('contato.php');?>
