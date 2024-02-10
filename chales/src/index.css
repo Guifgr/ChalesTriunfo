@@ -1,0 +1,47 @@
+/* Zera as margens do body e html para remover a borda branca ao redor do site */
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  color: inherit; /* blue colors for links too */
+  text-decoration: inherit; /* no underline */
+  /* Garante que o background preencha todo o espaço disponível */
+  background-color: #5c2018; /* Opcional: caso queira que o fundo se estenda além do header */
+  text-decoration: none;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #5c2018;
+  display: flex;
+  flex-direction: row; /* Mantém os itens lado a lado */
+  align-items: center;
+  justify-content: space-between; /* Espaça os itens filhos igualmente */
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding: 0 20px; /* Adiciona um pouco de padding nas laterais do cabeçalho */
+  width: 100%; /* Assegura que o header ocupe toda a largura */
+  box-sizing: border-box; /* Garante que o padding não adicione largura extra */
+}
+
+/* Adiciona estilo específico para espaçar as divs */
+.App-header > div {
+  flex-basis: 40%; /* Define uma base para cada div ocupar quase metade do header */
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-link {
+  color: white;
+}
+
+iframe {
+  border-radius: 7% 7%;
+}
